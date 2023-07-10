@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">JavaScript, TypeScript, Python, HTML, CSS, React, Redux, GraphQL, Node.js, Express, SQL, NoSQL, TDD (Jest, Chai, Cypress), Docker, Kubernetes, Prometheus, AWS (EC2, EB, RDS, S3, IAM), REST APIs, Git, GitHub, CI/CD (GitHub Actions, Travis CI).</p>
