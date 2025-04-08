@@ -4,7 +4,6 @@
 
 <h2 align="center">Hi! 👋 I'm Matt.</h2>
 <p align="center">
-  I'm a Software Engineer at CS Engineering and open source contributor building out full stack applications with React, HTML/CSS, Node, Express, and SQL/NoSQL databases. I'm also a Developer for Ekkremis, a metrics data visualizer for Kubernetes deployments.
 </p>
 
 <h2 align="center">💻 Technologies</h2>
