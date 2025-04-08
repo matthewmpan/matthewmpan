@@ -11,12 +11,11 @@
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">JavaScript, TypeScript, HTML, CSS, Svelte, React, Node.js, Express, SQL, NoSQL, TDD (Jest, Chai, Cypress), Docker, Kubernetes, Prometheus, AWS, REST APIs, Git, GitHub, CI/CD (GitHub Actions, Travis CI).</p>
+<p align="center">JavaScript, TypeScript, HTML, CSS, Svelte, React, Node.js, SQL, NoSQL, TDD (Jest, Chai, Cypress), Docker, Kubernetes, Prometheus, AWS, REST APIs, Git, GitHub, CI/CD (GitHub Actions, Travis CI).</p>
 
 <h2 align="center">📫 Reach me on</h2>
 <p align="center">
